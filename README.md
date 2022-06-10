@@ -6,37 +6,26 @@ Using PySpark to perform the ETL process to extract the dataset, transform the d
 
 ### Purpose:
 
-
+Determine positive vine reviewsbias between vine-reviews and non-vine-reviews within the Amazon review dataset.
 
 ## Resources
 
-**Data Source:** MechaCar_mpg.CSV, Suspension_Coil.CSV.
+**Data Source:** [Amazon Review Datasets](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt), [Tools Review Dataset](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Tools_v1_00.tsv.gz)
 
-**Software:** R, R Studios, Git_Hub.
+**Software:** Google Colab Notebook, PostgreSQL 11.9, pgAdmin 4, AWS
 
 ## Results:
 
+<p align="center">
+Vine Reviews
+</p>
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/98966503/173080037-1d509521-cd6c-4ea3-8d82-49b938bafaff.png"> 
 </p>
 
-
-
-<br>
-
-
-
-<p align="center">
-
-</p>
-
 <p align="center">
     <img src="https://user-images.githubusercontent.com/98966503/173080032-d1bc108c-8d2e-48e8-b78f-f8526ffe621a.png"> 
-</p>
-
-<p align="center">
-
 </p>
 
 <p align="center">
@@ -47,29 +36,16 @@ Using PySpark to perform the ETL process to extract the dataset, transform the d
 <br>
 
 
-
 <p align="center">
-    
+Non-Vine reviews  
 </p>
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/98966503/173080042-f963205f-9b62-4b30-aa06-7a33a6bc9389.png"> 
 </p>
 
-
-
-<p align="center">
-    
-</p>
-
 <p align="center">
     <img src="https://user-images.githubusercontent.com/98966503/173080040-ec5f1009-b059-4356-97ae-fef163b05bb6.png"> 
-</p>
-
-
-
-<p align="center">
-    Suspension Coils Lot 2 T-test
 </p>
 
 <p align="center">
@@ -77,14 +53,8 @@ Using PySpark to perform the ETL process to extract the dataset, transform the d
 </p>
 
 
-
-<p align="center">
-   
-</p>
-
-
-
 <br>
+
 
 ## Summary:
 
@@ -93,10 +63,12 @@ Using PySpark to perform the ETL process to extract the dataset, transform the d
 
 
 <p align="center">
-
-
-
+57% of the reviews in the Vine program were 5 stars reviews whereas the percentage in the non-Vine reviews is only 46%. This describes a positivity bias for reviews in the Vine program.
 </p>
 
+
+<p align="center">
+Additionally we could analyse the statistical distribution (mean, median and mode) of the star rating for the Vine and non-Vine reviews.
+</p>
 
 
