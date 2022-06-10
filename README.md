@@ -18,7 +18,7 @@ Using PySpark to perform the ETL process to extract the dataset, transform the d
 
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/98966503/169879902-e84fdeab-99b6-4ccd-a7d6-a37a966e7354.png"> 
+    <img src="https://user-images.githubusercontent.com/98966503/173080037-1d509521-cd6c-4ea3-8d82-49b938bafaff.png"> 
 </p>
 
 
@@ -28,19 +28,19 @@ Using PySpark to perform the ETL process to extract the dataset, transform the d
 
 
 <p align="center">
-Total Summary 
-</p>
-
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/98966503/169879908-88c318d7-1603-4395-b9b9-98685dd983c9.png"> 
-</p>
-
-<p align="center">
 
 </p>
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/98966503/169879906-96f066a1-09dd-4506-8c99-b50eee47ffb5.png"> 
+    <img src="https://user-images.githubusercontent.com/98966503/173080032-d1bc108c-8d2e-48e8-b78f-f8526ffe621a.png"> 
+</p>
+
+<p align="center">
+
+</p>
+
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/98966503/173080036-7d051aa9-75f1-4378-93e2-830a783ea4ba.png"> 
 </p>
 
 
@@ -53,7 +53,7 @@ Total Summary
 </p>
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/98966503/169879911-c2cd55b4-9b8b-487d-82a6-f9fdf55e7a84.png"> 
+    <img src="https://user-images.githubusercontent.com/98966503/173080042-f963205f-9b62-4b30-aa06-7a33a6bc9389.png"> 
 </p>
 
 
@@ -63,7 +63,7 @@ Total Summary
 </p>
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/98966503/169879913-441551a5-d902-458b-b22a-07492b640d48.png"> 
+    <img src="https://user-images.githubusercontent.com/98966503/173080040-ec5f1009-b059-4356-97ae-fef163b05bb6.png"> 
 </p>
 
 
@@ -73,7 +73,7 @@ Total Summary
 </p>
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/98966503/169879914-ecf657d1-8fea-4db3-9dba-37580fe2d7d8.png"> 
+    <img src="https://user-images.githubusercontent.com/98966503/173080039-fc8474f8-d802-4caa-b84d-01281f4f96af.png"> 
 </p>
 
 
@@ -82,9 +82,6 @@ Total Summary
    
 </p>
 
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/98966503/169879915-799e8148-f71d-4d1c-8fba-c2222e24d6f4.png"> 
-</p>
 
 
 <br>
